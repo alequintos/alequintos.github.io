@@ -9,51 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* Ph.D in Statistics, [Columbia University](https://columbia.edu), 2022 (expected)
+* M.Phil. in Statistics, [Columbia University](https://columbia.edu), 2020
+* M.A. in Statistics, [Columbia University](https://columbia.edu), 2018
+* B.S. in Actuarial Science, [Universidad de las Américas Puebla (UDLAP)](https://www.udlap.mx/web/en/), 2015
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* [Columbia University](https://columbia.edu): Teaching Assistant at the [Department of Statistics](https://stat.columbia.edu/)
+  * Fall 2016 to Present
+  * Select Courses:
+    * Stochastic Processes and Applications
+    * Elementary Stochastic Processes
+    * Calculus-based Introduction to Statistics
+    * Statistical Inference and Probability
+    * Applied Linear Regression Analysis
+  * Advisor: Phillip Protter
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [Citigroup](https://www.citigroup.com): Compliance Analyst at [Banamex](https://www.banamex.com/)
+  * Jun. 2015 to Sep. 2015
+  * Anti Money Laundering Unit
+
+* [Cornell University](cornell.edu): Research Intern at the [Samuel Curtis Johnson Graduate School of Management](https://www.johnson.cornell.edu/)
+  * Jun. 2014 to Aug. 2014
+  * Focused on new regulation in the Mexican insurance market
+
+* [American Association for Marriage and Family Therapy](https://www.aamft.org/): Policy Intern
+  * Feb. 2014 to May 2014
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Skills
+* Extensive experience in VBA, R, LaTeX, C#, and Mathematica
+* Familiar with Access and Statistical packages (Minitab and EViews)
+* Proficient in Microsoft Office (Excel, Word, PowerPoint, Publisher)
