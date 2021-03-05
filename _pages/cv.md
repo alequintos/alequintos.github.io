@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Statistics, [Columbia University](https://columbia.edu), 2022 (expected)
+* Ph.D. in Statistics, [Columbia University](https://columbia.edu), 2022 (expected)
 * M.Phil. in Statistics, [Columbia University](https://columbia.edu), 2020
 * M.A. in Statistics, [Columbia University](https://columbia.edu), 2018
 * B.S. in Actuarial Science, [Universidad de las Américas Puebla (UDLAP)](https://www.udlap.mx/web/en/), 2015
