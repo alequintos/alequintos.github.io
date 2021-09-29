@@ -20,4 +20,4 @@ I have been a [teaching assistant](/teaching) for various professors in a variet
 To learn more about my experiences, check out my detailed [CV](/cv).
 
 ## Personal
-I love to run! I have ran 7 marathons so far!
+I love to run! I have run 7 marathons so far!
