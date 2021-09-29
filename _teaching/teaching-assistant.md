@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "New York, NY"
 ---
 
-These are a select list of courses that I have TA'd:
+These are the courses that I have TA'd for:
 * Stochastic Processes and Applications
 * Elementary Stochastic Processes
 * Calculus-based Introduction to Statistics
