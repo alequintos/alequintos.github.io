@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-10-23-talk-rutgers-university-conference-on-mathematical-finance
 venue: "Rutgers University"
-date: 2021-10-23
+date: 2022-10-23
 location: "New Brunswick, NJ"
 ---
 
