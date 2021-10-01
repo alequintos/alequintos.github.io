@@ -1,9 +1,8 @@
 ---
 title: "Optimal group size in microlending"
 collection: publications
-permalink: /publication/2021-01-18-optimal-group-size-in-microlending
+permalink: /publication/optimal-group-size-in-microlending
 excerpt: 'We show that the original choice of Muhammad Yunus, of a group size of five people, is, under the right, and, we believe, reasonable hypotheses, either close to optimal, or even at times exactly optimal, i.e., the optimal group size is indeed five people.'
-date: 2021-01-18
 venue: 'Annals of Finance'
 paperurl: 'https://doi.org/10.1007/s10436-020-00382-0'
 citation: 'Protter, P., Quintos, A. Optimal group size in microlending. <i>Ann Finance</i> (2021).'

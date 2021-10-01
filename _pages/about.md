@@ -1,23 +1,13 @@
 ---
 permalink: /
-title: "Overview"
-excerpt: "Overview"
+title: ""
+excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in Statistics at [Columbia University](https://columbia.edu).
+I am a Ph.D. candidate in Statistics at [Columbia University](https://stat.columbia.edu) where I do [research](/publications/) primarily on Mathematical Finance, under the direction of [Prof. Philip Protter](http://www.stat.columbia.edu/~protter/). I have also been a [teaching assistant](/teaching/) for various courses and mentored several students. To learn more about my professional experiences, please view my detailed [CV](/files/alejandra-quintos-cv.pdf).
 
-## Experience
-I am doing [research](/publications) on Mathematical Finance under the direction of [Prof. Philip Protter](http://www.stat.columbia.edu/~protter/).
-
-I have [talked](/talks) in several conferences around the world, as shown on this [map](/talkmap.html).
-
-I have been a [teaching assistant](/teaching) for various professors in a variety of courses.
-
-To learn more about my experiences, check out my detailed [CV](/cv).
-
-## Personal
-I love to run! I have run 7 marathons so far!
+I was born and raised in Puebla, Mexico 🇲🇽 and currently live in New York 🗽. Check out the marathons and other races I have [run](/runs/)!
