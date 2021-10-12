@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## 2021
-### New York City Marathon
-Time: xx:xx:xx
+### [New York City Marathon](https://www.nyrr.org/tcsnycmarathon)
+Coming up on November 7, 2021!
 
 ### Bronx 10 Mile
-Time: xx:xx:xx
+Time: 1:16:07
 
 ## 2019
 ### Marine Corps Marathon
