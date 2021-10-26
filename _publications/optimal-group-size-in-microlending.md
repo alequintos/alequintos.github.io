@@ -3,6 +3,7 @@ title: "Optimal group size in microlending"
 collection: publications
 permalink: /publication/optimal-group-size-in-microlending
 venue: 'Annals of Finance'
+excerpt: ''
 paperurl: 'https://doi.org/10.1007/s10436-020-00382-0'
 date: 2021-01-18
 citation: 'Protter, P., Quintos, A. Optimal group size in microlending. <i>Ann Finance</i> (2021).'
