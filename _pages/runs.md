@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2021
 ### [NYC Marathon](https://www.nyrr.org/tcsnycmarathon)
-Coming up on November 7, 2021!
+Time: 3:36:49
 
 ### New Balance Bronx 10-Mile
 Time: 1:16:07
