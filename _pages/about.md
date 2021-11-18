@@ -12,4 +12,4 @@ I am a Ph.D. candidate in Statistics at [Columbia University](https://stat.colum
 
 I was born and raised in Puebla, Mexico 🇲🇽 and currently live in New York 🗽. I love running! I have run 8 marathons so far and just finished the 2021 NYC Marathon. Check out these marathons and other races I have [run](/runs/)!
 
-**I am currently in the academic job market.**
+**I am on the academic job market.**
