@@ -2,7 +2,7 @@
 title: "Dependent Stopping Times"
 collection: publications
 permalink: /publication/dependent-stopping-times
-venue: ''
+venue: 'arXiv'
 excerpt: ''
 paperurl: 'https://arxiv.org/abs/2111.09458'
 date: 2021-11-18
