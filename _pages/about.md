@@ -14,4 +14,6 @@ During my Ph.D. program, I held a [Fulbright grant](https://us.fulbrightonline.o
 
 I was born and raised in [Puebla, Mexico](https://en.wikipedia.org/wiki/Puebla_(city)) 🇲🇽 and currently live in New York 🗽. I love running! I have run 8 marathons so far and just finished the [2021 NYC Marathon](/images/ale-quintos-nyc-marathon-2021.jpeg). Check out these marathons and other races I have [run](/runs/)!
 
+If you would like to contact me, please send me an email to a.quintos at columbia.edu
+
 **I am on the academic job market.**
