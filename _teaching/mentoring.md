@@ -3,7 +3,7 @@ title: "Research Mentor"
 collection: teaching
 type: "Undergraduate Research Experiences in Mathematical Modeling (CSUREMM)"
 permalink: /teaching/teaching-assistant
-venue: "Columbia University, Statistics Department and Mathematics Department"
+venue: "Columbia University, Department of Statistics and Department of Mathematics"
 date: 2021-06-01
 location: "New York, NY"
 ---
