@@ -3,8 +3,8 @@ title: "Teaching Assistant Experience"
 collection: teaching
 type: "Undergraduate/Graduate courses"
 permalink: /teaching/teaching-assistant
-venue: "Columbia University, Statistics Department"
-date: 2021-01-01
+venue: "Columbia University, Department of Statistics"
+date: 2022-05-01
 location: "New York, NY"
 ---
 
