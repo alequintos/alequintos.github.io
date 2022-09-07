@@ -1,7 +1,7 @@
 ---
 title: "Directed Reading Program Mentor"
 collection: teaching
-type: "Mathematics Department"
+type: "Department of Mathematics"
 permalink: /teaching/teaching-assistant
 venue: "Columbia University"
 date: 2021-10-01
