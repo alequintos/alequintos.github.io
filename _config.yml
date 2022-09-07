@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alejandra Quintos"
 title_separator          : "-"
 name                     : &name "Alejandra Quintos"
-description              : &description "Ph.D. Candidate in Statistics at Columbia University"
+description              : &description "Assistant Professor in the Department of Statistics at UW-Madison"
 url                      : https://alejandraquintos.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alequintos/alequintos.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Alejandra Quintos"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. candidate in Statistics at Columbia University"
-  location         : "New York, NY"
+  bio              : "Assistant Professor in the Department of Statistics at UW-Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YKHJn14AAAAJ"
-  email            : "a.quintos@columbia.edu"
+  email            : "alejandra.quintos@wisc.edu"
   researchgate     :
   uri              :
   bitbucket        :
