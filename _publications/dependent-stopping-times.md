@@ -5,7 +5,7 @@ permalink: /publication/stopping-times-occurring-simultaneously
 venue: 'arXiv'
 excerpt: ''
 paperurl: 'https://arxiv.org/abs/2111.09458'
-date: 2021-11-18
+date: 2022-12-25
 citation: 'Protter, P., Quintos, A. Stopping Times Occurring Simultaneously. (2022).'
 ---
 
