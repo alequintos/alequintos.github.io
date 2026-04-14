@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor and a [Nellie McKay Fellow](https://facstaff.provost.wisc.edu/faculty-diversity-initiative/#nellie-mckay-fellowship) in the [Department of Statistics](https://stat.wisc.edu/) at the University of Wisconsin-Madison. I am also affiliated with the [Data Science Institute](https://dsi.wisc.edu/about/dsi-affiliates/) and with the [Latin American, Caribbean, and Iberian Studies Program](https://lacis.wisc.edu/people/affiliated-faculty-2/)
+I am an Assistant Professor and a [Nellie McKay Fellow](https://facstaff.provost.wisc.edu/faculty-diversity-initiative/#nellie-mckay-fellowship) in the [Department of Statistics](https://stat.wisc.edu/) at the University of Wisconsin-Madison. I am also affiliated with the [Data Science Institute](https://dsi.wisc.edu/about/dsi-affiliates/) and with the [Latin American, Caribbean, and Iberian Studies Program](https://lacis.wisc.edu/people/affiliated-faculty-2/).
 
 My research is in applied probability, stochastic processes, and statistical methodology, with a focus on modeling dependence and risk in financial systems. I develop probabilistic and statistical tools for diffusion and jump-driven models, including phase-type and generalized Cox frameworks, with applications to credit risk, systemic risk, and microfinance.
 
